@@ -1,6 +1,2 @@
+
 vikas
-<<<<<<< HEAD
-modified by Pravin
-=======
-chauhan
->>>>>>> 53c4ac7ec150f3b69ab4860c93d83ba5474ebd43
