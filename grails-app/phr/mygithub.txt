@@ -1,3 +1,9 @@
 hello 
 
+<<<<<<< HEAD
 3 rd done
+=======
+second changes
+
+3rd chnages
+>>>>>>> 6ff4d88365ed27030f5242699c8b1d135a7c9c44
